@@ -4,12 +4,12 @@ using namespace std;
 int main()
 {
 	int arr[3];
-	cout<<"ÇëÊäÈëÊı×éÖĞµÄÔªËØ:"<<endl;
+	cout<<"è¯·è¾“å…¥æ•°ç»„ä¸­çš„å…ƒç´ :"<<endl;
 	for(int i=0;i<3;i++){
 		cin>>arr[i];
 	}
 	
-	cout<<"Êı×éÖĞµÄÔªËØÊÇ:"<<endl;
+	cout<<"æ•°ç»„ä¸­çš„å…ƒç´ æ˜¯:"<<endl;
 	for(int i=0;i<3;i++){
 		cout<<arr[i]<<" ";
 	}
